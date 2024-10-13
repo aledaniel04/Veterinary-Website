@@ -6,4 +6,6 @@ que se necesita saber es html y css
 
 ## Capturas
 
-<img src="imagen/01-imagen.png" width=500>
+<img src="imagen/01-imagen.png" width=500> |  <img src="imagen/02-imagen.png" width=500> |
+| :---: | :---: |
+| <img src="imagen/03-imagen.png" width=500> |  <img src="imagen/04-imagen.png" width=500> |
