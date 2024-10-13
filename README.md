@@ -6,3 +6,4 @@ que se necesita saber es html y css
 
 ## Capturas
 
+<img src="imagen/01-imagen.png" width=500>
